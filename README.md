@@ -12,3 +12,5 @@ Some really helpful one-liners (26)  to can help boost your productivity and can
     
 #### <i>With this fuction, you'll be able to check ifd the date that is provided is either a weekday or weekend.
     
+#  3 – Check if a number is even or odd
+#### <i>Simple utility function to check if a number is even or odd.
